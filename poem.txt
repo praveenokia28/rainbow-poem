@@ -3,6 +3,7 @@ pink
 ornage
 yellow
 red
+purple
 white
 green
 these are the colour of the rainbow. 
