@@ -6,5 +6,7 @@ red
 purple
 black
 white
+
+universal
 green
 these are the colour of the rainbow. 
