@@ -1,0 +1,8 @@
+rainbow
+pink
+ornage
+yellow
+red
+white
+green
+these are the colour of the rainbow. 
