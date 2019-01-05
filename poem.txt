@@ -4,6 +4,7 @@ ornage
 yellow
 red
 purple
+black
 white
 green
 these are the colour of the rainbow. 
